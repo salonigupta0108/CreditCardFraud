@@ -1,6 +1,7 @@
 # CreditCardFraud
 
 Comparison of different machine learning algorithms
+
 I have used 4 supervised machine learning algorithms to predict the test set. The train: test set ratio is 7:3. For each algorithm, I have tried to find out the best set of attributes in order to get the best result possible. The algorithms used are as follows:
 
 •	SUPPORT VECTOR MACHINE: SVMs are a set of supervised learning methods used for classification, regression and outlier detection. The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space (N — the number of features) that distinctly classifies the data points. Our objective is to find a plane with the maximum margin i.e. the maximum distance between data points of the two classified classes.
